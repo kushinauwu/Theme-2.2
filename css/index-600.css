@@ -611,13 +611,13 @@ i {
 
 .footer-section button {
     background-image: linear-gradient(to right, #84fab0 0%,  #8fd3f4 51%); /* footer section button bg color */
-    position: relative;
+    position: absolute;
     padding-bottom: 1.5vh;
     padding-top: 1.5vh;
     padding-left: 2vh;
     padding-right: 2vh;
     border-radius: 20px;
-    margin-left: 2vh;
+    margin-left: 2%;
     font-family: 'Montserrat',serif;
     font-weight: bold;
     border: none;
